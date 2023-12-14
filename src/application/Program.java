@@ -59,8 +59,6 @@ public class Program {
         System.out.printf("Média das alturas das mulheres = %.2f%n", average);
         System.out.println("Número de homens = " + qntMen);
 
-
-
         sc.close();
     }
 }
